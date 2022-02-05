@@ -1,0 +1,15 @@
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\bin\Debug\net6.0\ref\Persistence.dll
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\bin\Debug\net6.0\Domain.dll
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\webdesign\C#_dotnet_6\dotnet_react\Persistence\obj\Debug\net6.0\Persistence.pdb
